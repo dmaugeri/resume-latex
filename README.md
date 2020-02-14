@@ -1,4 +1,4 @@
-#Awesome Resume
+# Awesome Resume
 
 I used the template provided by [Awesome-CV](https://github.com/posquit0/Awesome-CV)
 
